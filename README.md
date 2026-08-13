@@ -12,6 +12,12 @@ Here are the technologies I have been working with in my academic and practice p
 - **Databases:** PostgreSQL, MongoDB, MySQL 
 - **DevOps & Tools:** Docker, Jenkins, Git
 
+### 💻 My Projects
+
+# **[FutureCast](https://github.com/janneesa/FutureCast)**
+- FutureCast is a full-stack web application that allows users to create, share, and discuss predictions on various topics.
+- Tech Stack: React, Node.js, MongoDB, Tailwind CSS, JWT Authentication.
+
 ### 🌱 Currently Exploring
 
 - Building full-stack applications and improving my architectural knowledge.
