@@ -14,7 +14,7 @@ Here are the technologies I have been working with in my academic and practice p
 
 ### 💻 My Projects
 
-# **[FutureCast](https://github.com/janneesa/FutureCast)**
+#### **[FutureCast](https://github.com/janneesa/FutureCast)**
 - FutureCast is a full-stack web application that allows users to create, share, and discuss predictions on various topics.
 - Tech Stack: React, Node.js, MongoDB, Tailwind CSS, JWT Authentication.
 
