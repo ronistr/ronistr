@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Roni! 👋
 
-<!--
-**ronistr/ronistr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a final-year Information and Communications Technology student majoring in Software Engineering, currently looking for my first role as a Junior/Trainee Full-Stack Developer. 
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are the technologies I have been working with in my academic and practice projects:
+
+- **Languages:** Java, Python, JavaScript / TypeScript
+- **Frontend:** React, React Native, HTML5, CSS3
+- **Backend:** Node.js, Express
+- **Databases:** PostgreSQL, MongoDB, MySQL 
+- **DevOps & Tools:** Docker, Jenkins, Git
+
+### 🌱 Currently Exploring
+
+- Building full-stack applications and improving my architectural knowledge.
+
+### 📫 Let's Connect!
+
+I am actively looking for job opportunities where I can build meaningful solutions and grow as a developer.
+
+- **LinkedIn:** www.linkedin.com/in/roni-ström-a4292236a
+- **Email:** roni.strom02@gmail.com
