@@ -28,5 +28,5 @@ Here are the technologies I have been working with in my academic and practice p
 
 I am actively looking for job opportunities where I can build meaningful solutions and grow as a developer.
 
-- **LinkedIn:** www.linkedin.com/in/roni-ström-a4292236a
+- **LinkedIn:** www.linkedin.com/in/roni-strom
 - **Email:** roni.strom02@gmail.com
