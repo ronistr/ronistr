@@ -19,6 +19,10 @@ Here are the technologies I have been working with in my academic and practice p
 - **[Airport Simulator](https://github.com/ronistr/AirportSimulationGUI)**
   - Airport Simulator is a simulation project designed to model customer flow through various airport service points.
   - Tech Stack: Java, JavaFX, MySQL, JUnit 5.
+ 
+- **[Neural Networks Projects](https://github.com/ronistr/NeuralNetworksProjects)**
+  - Neural Networks Projects is a collection of four deep learning projects covering image classification, birdsong audio classification, speech recognition and text generation.
+  - Tech Stack: Python, TensorFlow/Keras, PyTorch, Hugging Face Transformers, Jupyter Notebook, Docker.
 
 ### 📫 Let's Connect!
 
