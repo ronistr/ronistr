@@ -1,7 +1,5 @@
 # Hi there, I'm Roni! 👋
 
-I'm a final-year Information and Communications Technology student majoring in Software Engineering, currently looking for my first role as a Junior/Trainee Full-Stack Developer. 
-
 ### 🛠️ Tech Stack & Tools
 
 Here are the technologies I have been working with in my academic and practice projects:
@@ -14,17 +12,13 @@ Here are the technologies I have been working with in my academic and practice p
 
 ### 💻 My Projects
 
-- **[FutureCast](https://github.com/janneesa/FutureCast)**
+- **[FutureCast](https://github.com/ronistr/FutureCast)**
   - FutureCast is a full-stack web application that allows users to create, share, and discuss predictions on various topics.
   - Tech Stack: React, Node.js, MongoDB, Tailwind CSS, JWT Authentication.
  
-- **[Airport Simulator](https://github.com/janneesa/AirportSimulationGUI)**
+- **[Airport Simulator](https://github.com/ronistr/AirportSimulationGUI)**
   - Airport Simulator is a simulation project designed to model customer flow through various airport service points.
   - Tech Stack: Java, JavaFX, MySQL, JUnit 5.
-
-### 🌱 Currently Exploring
-
-- Building full-stack applications and improving my architectural knowledge.
 
 ### 📫 Let's Connect!
 
